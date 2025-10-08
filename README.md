@@ -12,5 +12,5 @@ I am exploring projects in cybersecurity, GRC, and network security while buildi
 ## Projects
 1. **FSEOG Policy Audit Script**  
    Automates auditing of student grant data for compliance purposes.  
-   [See project folder](GRC-Portfolio/FSEOG-Policy-Audit/)
+   [See project folder](GRC-Portfolio/FSEOG-Policy-Audit/README.md)
 
