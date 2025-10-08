@@ -12,6 +12,5 @@ Group project using supervised machine learning to identify patterns for ASD dia
 ## Skills Demonstrated
 - Data preprocessing and cleaning
 - Supervised machine learning
-- Python (pandas, scikit-learn)
 - Data visualization and reporting
 
