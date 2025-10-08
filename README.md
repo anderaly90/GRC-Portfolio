@@ -6,7 +6,7 @@ I am exploring projects in cybersecurity, GRC, and network security while buildi
 
 ## Skills
 - GRC frameworks: NIST, ISO 27001  
-- Tools: Wireshark, Weka, Splunk  
+- Tools: Wireshark, Weka, Kali Linux
 - Languages: Python, Bash  
 
 ## Projects
