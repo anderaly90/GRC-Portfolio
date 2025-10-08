@@ -1,17 +1,15 @@
-# FSEOG Policy Audit Script
+# FSEOG Policy Audit Project
 
 ## Description
-This project automates auditing of student grant data. It identifies errors, flags non-compliance, and generates a report for review.
+This project includes the Federal Supplemental Educational Opportunity Grant (FSEOG) Institutional Policy created to ensure compliance with federal regulations. It demonstrates knowledge of GRC practices, risk management, and internal controls in higher education financial aid.
 
-## Technologies
-- Python
-- Excel (pandas library)
-
-## Usage
-1. Place your student grant Excel file in the project folder.
-2. Run `fseog_audit.py` in Python.
-3. Check the output report for flagged issues.
+## Contents
+- `FSEOG_Policy.pdf` — full policy document
+- Awarding priorities and procedures
+- Risk management and audit readiness measures
+- Reporting requirements
 
 ## Learning Outcome
-- Learned how to manipulate Excel data with Python.
-- Applied basic auditing logic in a scripted environment.
+- Applied knowledge of federal financial aid regulations (34 CFR Part 676)
+- Developed risk and control documentation
+- Gained experience in creating policy documentation for compliance purposes
